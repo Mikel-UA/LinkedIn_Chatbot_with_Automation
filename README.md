@@ -1,5 +1,3 @@
-# LinkedIn_Chatbot_with_Automation
-
 # LinkedIn ChatBot (Disclaimer: Pre-ChatGPT Era)
 
 ## Overview
